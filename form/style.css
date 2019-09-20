@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(merajut.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+.login{
+  margin: auto;
+  margin-top: 100px;
+  padding: 50;
+  position: center;
+  top: 50%;
+  left: 50%
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  width: 270px;
+  box-shadow: 0 0 10px 5px black;
+}
+
+.daftar-ARUL{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  letter-spacing: 5px;
+  font-size: 22px;
+}
+
+.login-input{
+  width: 100px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+}
